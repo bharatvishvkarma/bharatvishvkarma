@@ -19,9 +19,9 @@
 
 - 🔭 I’m currently working on **improving my skills**
 - 🌱 I’m currently learning **React js**
-- 👨‍💻 Personal portfolio: **<a href="https://denish-fuletra-portfolio.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Personal portfolio: **<a href="https://bharat-visvkarma-personal-portfolio.netlify.app/" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd and BackEnd**
-- 📫 How to reach me: **fuletradenish@gmail.com**
+- 📫 How to reach me: **bharatsharma1995@outlook.com**
 <!-- - ⚡ Fun fact **I am half finished** -->
 
 ---
