@@ -7,9 +7,9 @@
 <br>
 
 <a href="https://github.com/bharatvishvkarma/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=DenishFuletra">
+    <img src="https://komarev.com/ghpvc/?username=bharatvishvkarma">
 </a>
-<a href="https://github.com/bharatvishvkarma?tab=followers"><img src="https://img.shields.io/github/followers/DenishFuletra?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/bharatvishvkarma?tab=followers"><img src="https://img.shields.io/github/followers/bharatvishvkarma?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
 
@@ -29,7 +29,7 @@
 ## Connect with me:
 
 <!-- <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a> -->
-<a href="https://www.linkedin.com/in/denishfuletra" target="_blank"><img align="left" alt="Denish | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/bharatvishvkarma" target="_blank"><img align="left" alt="Bharat | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 <!-- <a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a> -->
 
@@ -47,14 +47,14 @@
 
 ---
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DenishFuletra&theme=radical&hide_border=true" alt="DenishFuletra" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatvishvkarma&theme=radical&hide_border=true" alt="BharatVishvkarma" /></p>
 
 ## 📊 My Github Stats
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DenishFuletra&show_icons=true&locale=en&theme=radical&hide_border=true" alt="DenishFuletra" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DenishFuletra&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="DenishFuletra" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bharatvishvkarma&show_icons=true&locale=en&theme=radical&hide_border=true" alt="BharatVishvkarm" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatvishvkarma&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="BharatVishvkarm" /></td
   </tr>
 </table>
 
