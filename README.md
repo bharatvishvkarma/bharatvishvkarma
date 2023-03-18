@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **React js**
 - 👨‍💻 Personal portfolio: **<a href="https://bharat-visvkarma-personal-portfolio.netlify.app/" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd and BackEnd**
-- 📫 How to reach me: **bharatsharma1995@outlook.com**
+- 📫 How to reach me: **iambharatsharma1@gmail.com**
 <!-- - ⚡ Fun fact **I am half finished** -->
 
 ---
